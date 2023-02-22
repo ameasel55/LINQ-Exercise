@@ -1,0 +1,15 @@
+/Users/pammeasel/Desktop/Repos/LINQ-Exercise/LINQ/bin/Debug/net6.0/LINQ
+/Users/pammeasel/Desktop/Repos/LINQ-Exercise/LINQ/bin/Debug/net6.0/LINQ.deps.json
+/Users/pammeasel/Desktop/Repos/LINQ-Exercise/LINQ/bin/Debug/net6.0/LINQ.runtimeconfig.json
+/Users/pammeasel/Desktop/Repos/LINQ-Exercise/LINQ/bin/Debug/net6.0/LINQ.dll
+/Users/pammeasel/Desktop/Repos/LINQ-Exercise/LINQ/bin/Debug/net6.0/LINQ.pdb
+/Users/pammeasel/Desktop/Repos/LINQ-Exercise/LINQ/obj/Debug/net6.0/LINQ.csproj.AssemblyReference.cache
+/Users/pammeasel/Desktop/Repos/LINQ-Exercise/LINQ/obj/Debug/net6.0/LINQ.GeneratedMSBuildEditorConfig.editorconfig
+/Users/pammeasel/Desktop/Repos/LINQ-Exercise/LINQ/obj/Debug/net6.0/LINQ.AssemblyInfoInputs.cache
+/Users/pammeasel/Desktop/Repos/LINQ-Exercise/LINQ/obj/Debug/net6.0/LINQ.AssemblyInfo.cs
+/Users/pammeasel/Desktop/Repos/LINQ-Exercise/LINQ/obj/Debug/net6.0/LINQ.csproj.CoreCompileInputs.cache
+/Users/pammeasel/Desktop/Repos/LINQ-Exercise/LINQ/obj/Debug/net6.0/LINQ.dll
+/Users/pammeasel/Desktop/Repos/LINQ-Exercise/LINQ/obj/Debug/net6.0/refint/LINQ.dll
+/Users/pammeasel/Desktop/Repos/LINQ-Exercise/LINQ/obj/Debug/net6.0/LINQ.pdb
+/Users/pammeasel/Desktop/Repos/LINQ-Exercise/LINQ/obj/Debug/net6.0/LINQ.genruntimeconfig.cache
+/Users/pammeasel/Desktop/Repos/LINQ-Exercise/LINQ/obj/Debug/net6.0/ref/LINQ.dll
